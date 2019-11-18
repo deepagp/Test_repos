@@ -7,9 +7,9 @@ int main()
  
  addition = a + b; //addition of 3 and 12
  subtraction = a - b; //subtract 3 from 12
- multiplication = a * b; //Multiplying both
- division = a / b; //dividing 12 by 3 (number of times)
- modulus = a % b; //calculation the remainder
+ //multiplication = a * b; //Multiplying both
+ //division = a / b; //dividing 12 by 3 (number of times)
+ //modulus = a % b; //calculation the remainder
  
  printf("Addition of two numbers a, b is : %d\n", addition);
  printf("Subtraction of two numbers a, b is : %d\n", subtraction);

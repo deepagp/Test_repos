@@ -19,7 +19,7 @@ main() {
    /* example of & and * operators */
    ptr = &a;	/* 'ptr' now contains the address of 'a'*/
    printf("value of a is  %d\n", a);
-   printf("*ptr is %d.\n", *ptr);
+//    printf("*ptr is %d.\n", *ptr);
 
    /* example of ternary operator */
    a = 10;
